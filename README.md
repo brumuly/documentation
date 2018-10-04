@@ -7,3 +7,5 @@ Please find required placement document examples in this repo. To complete HUDK5
 * Any Non-Disclosure Agreements
 * Any privacy-related documentation
 * Timeline for work including work completion date and deliverable date
+* ClickUp work plan including dates for sprints
+* Signed Code of Conduct
